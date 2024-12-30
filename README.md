@@ -95,6 +95,16 @@ or use extension method:
 binaryTree.PrintToConsole();
 ```
 
+or `binaryTree.PrintAsTree();`
+
+```
+      8
+     /  \
+    5    12
+   / \   / \
+  3   7 10  15
+```
+
 ## Operations complexity
 <table>
         <tr>
