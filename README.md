@@ -2,9 +2,9 @@
   <img src="BinaryTree.png" alt="BinaryTree" width="150"/>
 </p>
 
-# BinaryTree [![Stand With Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
+# Binary Search Tree [![Stand With Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
 
-C# Binary tree
+C# Binary search tree
 
 This project contains a cross platform Binary Tree implementation
 
